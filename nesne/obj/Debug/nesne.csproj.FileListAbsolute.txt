@@ -1,0 +1,7 @@
+C:\Users\adm\Desktop\nesne\nesne\nesne\bin\Debug\nesne.exe.config
+C:\Users\adm\Desktop\nesne\nesne\nesne\bin\Debug\nesne.exe
+C:\Users\adm\Desktop\nesne\nesne\nesne\bin\Debug\nesne.pdb
+C:\Users\adm\Desktop\nesne\nesne\nesne\obj\Debug\nesne.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\nesne\nesne\nesne\obj\Debug\nesne.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\nesne\nesne\nesne\obj\Debug\nesne.exe
+C:\Users\adm\Desktop\nesne\nesne\nesne\obj\Debug\nesne.pdb
